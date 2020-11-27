@@ -1,0 +1,126 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Fri Nov 27 19:50:47 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000004
+                   .org_2       code   0x000008    program   0x000002
+                   .org_3       code   0x000018    program   0x000286
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000003      
+                            0x000008    0x000009      
+                            0x000018    0x00029d      
+            652 out of 33048 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    D10ms   0x00001a    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                  Hashtag   0x000272    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     MyID   0x0000dc    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                   MyName   0x0000a6    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                 PressAny   0x000298    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    again   0x000022    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                   again1   0x00001e    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                  button1   0x000288    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                  button2   0x000290    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                clearDisp   0x000064    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     conA   0x00011a    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     conB   0x000124    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     conC   0x00012e    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     conD   0x000138    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                   cursor   0x00005c    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                firstline   0x00008a    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                   keypad   0x000142    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+              line_matrix   0x000054    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num0   0x0001be    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num1   0x000146    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num2   0x000152    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num3   0x00015e    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num4   0x00016a    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num5   0x000176    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num6   0x000182    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num7   0x00018e    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num8   0x00019a    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num9   0x0001a6    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     numH   0x0001ca    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                  numstar   0x0001b2    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+               secondline   0x000098    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+               setting_up   0x00004e    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show0   0x000264    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show1   0x0001d8    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show2   0x0001e6    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show3   0x0001f4    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show4   0x000202    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show5   0x000210    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show6   0x00021e    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show7   0x00022c    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show8   0x00023a    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show9   0x000248    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     star   0x000256    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    start   0x000280    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                 writeCmd   0x00006e    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                writeData   0x00007c    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    D10ms   0x00001a    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                   again1   0x00001e    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    again   0x000022    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+               setting_up   0x00004e    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+              line_matrix   0x000054    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                   cursor   0x00005c    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                clearDisp   0x000064    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                 writeCmd   0x00006e    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                writeData   0x00007c    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                firstline   0x00008a    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+               secondline   0x000098    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                   MyName   0x0000a6    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     MyID   0x0000dc    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     conA   0x00011a    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     conB   0x000124    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     conC   0x00012e    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     conD   0x000138    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                   keypad   0x000142    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num1   0x000146    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num2   0x000152    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num3   0x00015e    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num4   0x00016a    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num5   0x000176    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num6   0x000182    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num7   0x00018e    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num8   0x00019a    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num9   0x0001a6    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                  numstar   0x0001b2    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     num0   0x0001be    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     numH   0x0001ca    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show1   0x0001d8    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show2   0x0001e6    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show3   0x0001f4    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show4   0x000202    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show5   0x000210    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show6   0x00021e    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show7   0x00022c    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show8   0x00023a    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show9   0x000248    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                     star   0x000256    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    show0   0x000264    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                  Hashtag   0x000272    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                    start   0x000280    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                  button1   0x000288    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                  button2   0x000290    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+                 PressAny   0x000298    program     static C:\Users\ndiya\Desktop\MIDTERM PROJECT\midtermproject.asm
+
+
